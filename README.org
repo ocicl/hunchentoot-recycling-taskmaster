@@ -4,7 +4,7 @@ Improved multithreading taskmasters for Hunchentoot that recycle threads.
 
 |---------+----------------------------------------------------------------------------|
 | source  | git:https://github.com/y2q-actionman/hunchentoot-recycling-taskmaster.git |
-| commit  | 0000000                                                                    |
+| commit  | 454fdd0                                                                    |
 | systems | hunchentoot-recycling-taskmaster hunchentoot-atomic-op-taskmaster          |
 |---------+----------------------------------------------------------------------------|
 
